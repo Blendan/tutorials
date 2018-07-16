@@ -1,7 +1,8 @@
 # 3D Netz
 ### A Blender Tutorial from Blendan
 
-#### To Start ww Create a simple Cube.
+#### To Start with Create a simple Cube.
+#### The lager the Cube is the lager are the spaces in the Net.
 
 
 ![alt text](https://github.com/Blendan/tutorials/blob/master/Blender/3D_Netz/1.PNG)
@@ -117,4 +118,4 @@
 ![alt text](https://github.com/Blendan/tutorials/blob/master/Blender/3D_Netz/19.PNG)
 
 
-### Thans for reading My Tutorial.
+### Thanks for reading My Tutorial.
